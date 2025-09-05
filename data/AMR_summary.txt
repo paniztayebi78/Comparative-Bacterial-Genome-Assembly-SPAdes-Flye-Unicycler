@@ -1,0 +1,4 @@
+#FILE	NUM_FOUND	aac(3)-IId	blaCTX-M-55	blaEC-18	qnrS1	tet(A)
+../AMR_Flye.tsv	5	100.00	100.00	99.74	99.85	100.00
+../AMR_SPAdes.tsv	5	100.00	100.00	100.00	100.00	100.00
+../AMR_Unicycler.tsv	5	100.00	100.00	100.00	100.00	100.00

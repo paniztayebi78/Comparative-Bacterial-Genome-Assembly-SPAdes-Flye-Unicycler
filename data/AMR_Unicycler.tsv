@@ -1,0 +1,6 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+/scratch/ptayebi/Assignment_3/Unicycler_assembly/Unicycler_assembly.fasta	4	312920	314053	-	blaEC-18	1-1134/1134	===============	0/0	100.00	99.21	ncbi	NG_049083.1	class C extended-spectrum beta-lactamase EC-18	CEPHALOSPORIN
+/scratch/ptayebi/Assignment_3/Unicycler_assembly/Unicycler_assembly.fasta	6	70948	72147	-	tet(A)	1-1200/1200	===============	0/0	100.00	100.00	ncbi	NG_048154.1	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+/scratch/ptayebi/Assignment_3/Unicycler_assembly/Unicycler_assembly.fasta	6	76719	77594	+	blaCTX-M-55	1-876/876	===============	0/0	100.00	100.00	ncbi	NG_049006.1	class A extended-spectrum beta-lactamase CTX-M-55	CEPHALOSPORIN
+/scratch/ptayebi/Assignment_3/Unicycler_assembly/Unicycler_assembly.fasta	6	82235	82891	+	qnrS1	1-657/657	===============	0/0	100.00	100.00	ncbi	NG_050543.1	quinolone resistance pentapeptide repeat protein QnrS1	QUINOLONE
+/scratch/ptayebi/Assignment_3/Unicycler_assembly/Unicycler_assembly.fasta	6	84709	85569	-	aac(3)-IId	1-861/861	===============	0/0	100.00	100.00	ncbi	NG_047251.1	aminoglycoside N-acetyltransferase AAC(3)-IId	GENTAMICIN
